@@ -1,27 +1,27 @@
 let cardData = [
     {
-        icon:"fa-solid fa-mobile-screen-button",
-        cardTitle:"Mobile Developement"
+        icon:"fa-brands fa-react",
+        cardTitle:"MERN Development"
+    },
+    {
+        icon:"fa-solid fa-server",
+        cardTitle:"Backend Development"
     },
     {
         icon:"fa-solid fa-laptop-code",
-        cardTitle:"Web Development"
+        cardTitle:"Front End Development"
     },
     {
-        icon:"fa-solid fa-palette",
-        cardTitle:"Web Design"
-    },
-    {
-        icon:"fa-solid fa-code",
+        icon:"fa-brands fa-uncharted",
         cardTitle:"Web Applications"
     },
     {
-        icon:"fa-solid fa-magnifying-glass",
-        cardTitle:"SEO Search"
+        icon:"fa-solid fa-database",
+        cardTitle:"Data Base Management"
     },
     {
-        icon:"fa-solid fa-bullhorn",
-        cardTitle:"New Technologies"
+        icon:"fa-solid fa-mobile-screen",
+        cardTitle:"Responisive Design"
     }
 ]
 
