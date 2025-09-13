@@ -5,10 +5,10 @@ const sidebarSlice = createSlice({
     initialState:true,
     reducers:{
         open(state,action){
-            return true
+            return !state
         },
         close(state,action){
-            return false
+            return !state
         }
     }
 })
